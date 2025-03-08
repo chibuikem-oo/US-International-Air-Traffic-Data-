@@ -143,3 +143,13 @@ To optimize air traffic management and planning:
 - Target high-traffic carriers for partnerships and collaborations.
 - Monitor trends to anticipate future demands and adjust operations accordingly.
 - Continue analyzing data to inform policy and operational decisions.
+
+## Limitations
+- Data Completeness: The dataset may not include all flights, potentially leading to incomplete insights.
+- Data Accuracy: There may be errors or inconsistencies in the data that could affect the accuracy of the analysis.
+- Generalizability: Insights derived from this dataset may not be generalizable to other countries or regions.
+- Temporal Limitations: The analysis is based on historical data and may not reflect current or future trends.
+- Airport Traffic: The analysis assumes that airport traffic is a primary factor in air traffic patterns, which may not always be the case.
+- Carrier Performance: The analysis assumes that carrier performance is a primary factor in air traffic, which may not always be the case.
+- Geographical Distribution: The analysis assumes that geographical distribution is a primary factor in air traffic, which may not always be the case.
+- Data Granularity: The dataset may lack detailed information on specific flight routes, leading to less precise insights.
